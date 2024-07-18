@@ -1,0 +1,5 @@
+FIFO-First in first out
+LIFO-Last in first out
+
+LOL-League of Legends
+WOW-World of Warcraft
