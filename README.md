@@ -15,7 +15,9 @@ This project contains two Python scripts that work together to manage a payroll 
   - Displays the list of current employees.
   - Calculates and displays the weekly paycheck for each employee.
 
-# This project contains two Python scripts that work together to manage a simple payroll system for a company. The `Employee` class represents individual employees, while the `Company` class manages a list of employees and calculates their weekly paychecks.
+# company_payroll_classes
+
+This project contains two Python scripts that work together to manage a simple payroll system for a company. The `Employee` class represents individual employees, while the `Company` class manages a list of employees and calculates their weekly paychecks.**
 
 ## Features:
 - `Employee` class:
