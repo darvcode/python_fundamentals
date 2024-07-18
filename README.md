@@ -1,7 +1,7 @@
 # python_fundamentals
 This repository contains a collection of Python scripts created by following Python fundamentals from a course. Each script demonstrates key concepts and practical applications of Python programming.
 
-# company_payroll_with_inheritance
+## company_payroll_with_inheritance
 
 This project contains two Python scripts that work together to manage a payroll system for a company, utilizing inheritance to handle different types of employees. The `Employee` class represents a generic employee, while `SalaryEmployee`, `HourlyEmployee`, and `CommissionEmployee` classes inherit from `Employee` to handle specific types of payroll calculations.
 
@@ -15,7 +15,7 @@ This project contains two Python scripts that work together to manage a payroll 
   - Displays the list of current employees.
   - Calculates and displays the weekly paycheck for each employee.
 
-# company_payroll_classes
+## company_payroll_classes
 
 This project contains two Python scripts that work together to manage a simple payroll system for a company. The `Employee` class represents individual employees, while the `Company` class manages a list of employees and calculates their weekly paychecks.**
 
@@ -29,7 +29,7 @@ This project contains two Python scripts that work together to manage a simple p
   - Displays the list of current employees.
   - Calculates and displays the weekly paycheck for each employee.
  
-# weather_api.py
+## weather_api.py
 
 This script fetches and displays the current weather information for a specified city using the WeatherAPI service.
 
@@ -38,7 +38,7 @@ This script fetches and displays the current weather information for a specified
 - Parses the JSON response to extract the temperature and weather description.
 - Displays the current temperature and weather description for the specified city.
 
-# file_organization.py
+## file_organization.py
 
 This script organizes files in a specified folder into subfolders based on their file extensions. It categorizes files into images, documents, archives, and others.
 
@@ -47,7 +47,7 @@ This script organizes files in a specified folder into subfolders based on their
 - Moves files into their respective subfolders based on their extensions.
 - Handles unknown file extensions by placing them in an "other" subfolder.
 
-# acronyms.py
+## acronyms.py
 
 This script manages a list of software acronyms and their definitions. It allows the user to either find the definition of an acronym or add a new acronym and its definition to the list.
 
@@ -56,7 +56,7 @@ This script manages a list of software acronyms and their definitions. It allows
 - Searches for the definition of an acronym in a text file.
 - Adds a new acronym and its definition to a text file.
 
-# roll_dice.py
+## roll_dice.py
 
 This script simulates a simple dice game for two players. Each player rolls two six-sided dice, and the player with the higher total wins. If both players roll the same total, the game results in a tie.
 
@@ -65,7 +65,7 @@ This script simulates a simple dice game for two players. Each player rolls two 
 - Simulates rolling two six-sided dice for each player.
 - Compares the dice totals and declares a winner or a tie.
 
-# loan_payment_simulation.py
+## loan_payment_simulation.py
 
 This script helps you simulate the payoff of a loan over a specified number of months. It calculates the amount of interest paid and the remaining balance after each monthly payment.
 
@@ -74,7 +74,7 @@ This script helps you simulate the payoff of a loan over a specified number of m
 - Calculates and displays the interest paid and remaining balance for each month.
 - Displays a message when the loan is paid off, including the last payment amount and the total number of months taken to pay off the loan.
 
-# movie_showtimes.py
+## movie_showtimes.py
 
 This script provides a simple way to look up the showtimes for a list of currently showing movies. It allows the user to input the name of a movie and returns the corresponding showtime if available.
 
@@ -83,7 +83,7 @@ This script provides a simple way to look up the showtimes for a list of current
 - Prompts the user to input a movie name.
 - Provides the showtime for the selected movie or notifies the user if the movie is not available.
 
-# rock_paper_scissors.py
+## rock_paper_scissors.py
 
 This script simulates a game of Rock-Paper-Scissors between the user and the computer. The computer randomly selects its choice, and the user inputs their choice. The script then determines the winner based on the rules of the game.
 
