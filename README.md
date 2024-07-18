@@ -5,7 +5,7 @@ This repository contains a collection of Python scripts created by following Pyt
 
 This project contains two Python scripts that work together to manage a payroll system for a company, utilizing inheritance to handle different types of employees. The `Employee` class represents a generic employee, while `SalaryEmployee`, `HourlyEmployee`, and `CommissionEmployee` classes inherit from `Employee` to handle specific types of payroll calculations.
 
-## Features:
+### Features:
 - `Employee` class and its subclasses (`SalaryEmployee`, `HourlyEmployee`, `CommissionEmployee`):
   - Store employee details such as first name, last name, salary, hourly rate, and commission rate.
   - Calculate the weekly paycheck amount based on employee type.
