@@ -93,6 +93,11 @@ This script simulates a game of Rock-Paper-Scissors between the user and the com
 - Compares the choices and determines the winner.
 - Announces the result: win, lose, or tie.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
   
 
 
